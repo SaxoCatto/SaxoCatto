@@ -16,5 +16,5 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaxoCatto&layout=compact&card_with=400"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaxoCatto&layout=compact&card_with=500" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaxoCatto&layout=compact&card_with=500" width="560"/>
 </picture>
