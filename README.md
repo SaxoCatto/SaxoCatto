@@ -1,7 +1,7 @@
 -  This is only a sample of my landing page: [here](https://saxocatto.github.io/About-me/)
-- 🔭 I’m currently working on some OOP projects. Currently evaluating it.
-- 🌱 I’m getting my feet wet RISCV and anything related.
-- 🤔 I’m looking for help with system programming.
+- 🔭 Have worked on some OOP/OOD projects. Didn't like it so much.
+- 🌱 Indulging RISCV and anything related.
+- 🤔 Looking for help with system programming.
 - 📫 How to reach me? Do not.
 
 <!-- ![Muh GitHub stats](https://github-readme-stats.vercel.app/api?username=SaxoCatto&show_icons=true) 
